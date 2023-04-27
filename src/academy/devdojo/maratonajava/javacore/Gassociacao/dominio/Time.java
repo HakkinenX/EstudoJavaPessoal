@@ -2,7 +2,7 @@ package academy.devdojo.maratonajava.javacore.Gassociacao.dominio;
 
 public class Time {
     private String nome;
-// aoisdnasida
+
     public Time() {
         this.nome = nome;
     }
