@@ -3,6 +3,7 @@ package academy.devdojo.maratonajava.javacore.Gassociacao.dominio;
 public class Local {
     private String endereco;
 
+
     public Local(String endereco) {
         this.endereco = endereco;
     }
